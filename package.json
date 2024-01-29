@@ -1,0 +1,31 @@
+{
+  "name": "query-strings",
+  "version": "0.1.0",
+  "description": "handling query strings in express",
+  "main": "queryString.js",
+  "type" : "module",
+  "scripts": {
+    "start" : "queryString.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwm516/queryString.git"
+  },
+  "keywords": [
+    "handling",
+    "query",
+    "strings",
+    "in",
+    "express"
+  ],
+  "author": "NW Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwm516/queryString/issues"
+  },
+  "homepage": "https://github.com/nwm516/queryString#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
